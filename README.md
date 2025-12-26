@@ -45,8 +45,13 @@ I’m always open to collaborating on exciting tech projects or connecting with 
 ### 📈Daily Streak
 ---
 <br/>
-<div style="width: 100%; display: flex; justify-content: center; overflow: hidden;">
+<!-- <div style="width: 100%; display: flex; justify-content: center; overflow: hidden;">
   <img src="https://streak-stats.demolab.com?user=abumahid&hide_border=true&card_width=1280&card_height=360" alt="GitHub Streak" style="width: 100%; height: auto;" />
+</div> -->
+<div align="center" width="100%">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=abumahid&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
+
 </div>
 
 <br/>
